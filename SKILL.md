@@ -1,5 +1,10 @@
 ---
 name: kaogong-naoku
+version: "1.0.0"
+display_name: "考公脑库"
+display_name_en: "Civil Service Exam Brain Vault"
+description_zh: "基于2016-2026年国考/省考/联考11000+道行测真题深度标注的考公辅导Skill。覆盖资料分析（增长/比重/平均数/倍数/综合等7大类）和判断推理（逻辑判断/图形推理/类比推理/定义判断/科学推理5大类）。核心方法：每题按问法模型、推理链、最快解法、易错点、母题抽象五步深度标注，按考点重组而非按年份刷题。适用于公务员考试行测复习、真题讲解、考点突破、速算技巧训练、错题分析、解题思维训练等场景。"
+description_en: "Civil service exam tutoring skill based on 11,000+ deeply annotated real exam questions (2016-2026). Covers data analysis (7 categories) and logical reasoning (5 categories). Uses a five-step annotation framework: question model, reasoning chain, fastest solution, common pitfalls, and problem archetype abstraction."
 description: "考公脑库——基于2016-2026年国考/省考/联考11000+道行测真题深度标注的考公辅导Skill。覆盖资料分析（增长/比重/平均数/倍数/综合等7大类）和判断推理（逻辑判断/图形推理/类比推理/定义判断/科学推理5大类）。核心方法：每题按'问法模型→推理链→最快解法→易错点→母题抽象'五步深度标注，按考点重组而非按年份刷题。适用于公务员考试行测复习、真题讲解、考点突破、速算技巧训练、错题分析、解题思维训练等场景。当用户需要解行测题、复习考公、分析资料分析或判断推理、学习速算技巧时使用。"
 ---
 
